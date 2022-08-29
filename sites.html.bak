@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+    <head>
+		<title>Godaille-de-Rigadeaux</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+	<section class="ftco-section">		
+		<div class="row justify-content-center">
+			<a href="#" class="Header_img"><img src="images/logo.jpg" alt="" /></a>
+			<p style="text-align: right;">En bandeau :&nbsp;Parade navale dans la rade de Lorient - devant le port de plaisance de Kernevel&nbsp;</p>
+		</
+		
+		<div class="wrap">
+		</div>
+
+		<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="fa fa-bars"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav m-auto">
+	        	<li class="nav-item"><a href="index.html" class="nav-link">Accueil</a></li>
+	     		<li class="nav-item"><a href="Qui-suis-je.html" class="nav-link">Qui-suis je ?</a></li>
+			    <li class="nav-item active"><a href="sites.html" class="nav-link">Sites</a></li>
+			    <li class="nav-item"><a href="tutoriel.html" class="nav-link">Tutoriel</a></li>
+	            <li class="nav-item"><a href="jeux.html" class="nav-link">Jeux</a></li>
+	            <li class="nav-item"><a href="demos.html" class="nav-link">Démos</a></li>
+	            <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+	
+	<div class="wrap">
+	</div>
+
+	<div>
+		<div class="row justify-content-center">
+			<a href="https://deontologies.blogspot.com/p/accueil.html"  target="_blank">
+				Promouvoir les bonnes relations sociales
+			</a>
+		</div>
+		<div class="wrap">
+		</div>
+		<div class="row justify-content-center">
+			<a href="https://goderig.github.io/alter_infos/"  target="_blank">
+				Proposer des sources d'informations alternatives fiables	
+			</a>
+		<div/>
+	</div>	
+	</body>
+	</section>
