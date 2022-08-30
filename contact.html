@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
     <head>
 		<title>Godaille-de-Rigadeaux</title>
 		<meta charset="utf-8">
@@ -22,45 +22,46 @@
 			    <li class="nav-item"><a href="sites.html" class="nav-link">Sites</a></li>
 			    <li class="nav-item"><a href="tutoriel.html" class="nav-link">Tutoriel</a></li>
 	            <li class="nav-item"><a href="jeux.html" class="nav-link">Jeux</a></li>
-	            <li class="nav-item"><a href="demos.html" class="nav-link">Démos</a></li>	            
-				<li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
+	            <li class="nav-item active"><a href="demos.html" class="nav-link">Démos</a></li>	            
+				<li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
 		</nav>
 		<!-- END nav -->
+
 	
-		<h5>Merci de nous écrire et d'envoyer ce message, après avoir complété ce formulaire</h5>			
-																		
-		<div class="col-6 col-12-narrower imp-narrower">
-			<div id="content">
-				<!-- Content -->
+    <h1>Contactez-nous</h1>
+	<p align="center"><strong>Formulaire à remplir et envoyer</strong></p>
+	<table width="500" border="0" align="center" cellpadding="0" cellspacing="0">
+		<form action="https://formspree.io/f/myyvzvdo" method="post">
+			<tr>
+				<td><div align="left">Votre nom :</div></td>
+				<td colspan="2"><input type="text" name="nom" size="45" maxlength="100"></td>
+			</tr>
+			<tr>
+				<td width="17%"><div align="left">Votre mail :</div></td>
+				<td colspan="2"><input type="text" name="mail" size="45" maxlength="100"></td>
+			</tr>
+			<tr>
+				<td><div align="left">Sujet : </div></td>
+				<td colspan="2"><input type="text" name="objet" size="45" maxlength="120"></td>
+			</tr>
+			<tr>
+				<td><div align="left">Message : </div></td>
+				<td colspan="2"><textarea name="message" cols="50" rows="10"></textarea></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td width="42%"><center>
+				<input type="reset" name="Submit" value="Réinitialiser le formulaire">
+				</center></td>
+				<td width="41%"><center>
+				<input type="submit" name="Submit" value="Envoyer">
+				</center></td>
+			</tr>
+		</form>
+	</table>
 
-				<article>
-					<form
-						action="https://formspree.io/f/xzbyaobz"
-						method="POST"
-							
-							<label>
-								Votre adresse mail (obligatoire) :
-								<input type="email" required name="_replyto">
-							</label>
-							<label>
-								Message personnel (obligatoire).. :
-								<textarea name="message" required rows = 10 cols= 60> </textarea>
-							</label>
-							<label>
-								Votre nom (obligatoire) :
-								<textarea name="name" required rows = 1 cols=40> </textarea>
-							</label>   
-							<br>
-							<button type="submit">Envoyer</button>
-							<button type="reset">Effacer</button>
-					</form>
-				</article>
-			</div>
-		</div>
-
-	</section>
-	</body>
+</body>
 </html>
